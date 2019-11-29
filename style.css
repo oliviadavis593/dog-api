@@ -4,14 +4,19 @@
 
 body {
     margin: 0; 
-
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Alatsi', sans-serif;
+    background-color: rgb(66, 135, 245);
 }
+
 
 header {
     text-align: center;
+    
 }
 
 fieldset {
+    border: 5px solid black; 
     width: 500px;
     height: 400px; 
     margin: 0 auto;
@@ -36,5 +41,14 @@ form input {
 
 .number {
     margin-top: 30px; 
+}
+
+.button {
+    border: 1px solid white;
+    margin-top: 30px; 
+    width: 100px; 
+    margin-left: 180px;  
+    border-radius: 15px; 
+    background-color: #fff; 
 }
 
