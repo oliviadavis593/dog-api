@@ -44,11 +44,6 @@ form input {
 }
 
 .button {
-    border: 1px solid white;
     margin-top: 30px; 
-    width: 100px; 
-    margin-left: 180px;  
-    border-radius: 15px; 
-    background-color: #fff; 
 }
 
